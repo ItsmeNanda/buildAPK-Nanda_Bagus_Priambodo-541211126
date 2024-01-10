@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.nandaaaaa.HalloWorld__Nanda_Bagus_P"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aa2011eb-1ec1-48c2-b9cd-d6d00e020bc1"
+      }
     }
   }
 }
